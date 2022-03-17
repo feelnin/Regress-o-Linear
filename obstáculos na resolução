@@ -1,0 +1,2 @@
+Durante a realização do desafio, tive muitos desafios relacionados a parte de pré processamento do dataset, em especial na parte da divisão entre os dados de validação, teste e treino
+Além disso, o resultado das métricas R²,MSE, MAE, RSME podem aprensentar distorções por conta da aproximação feita.
